@@ -1,7 +1,9 @@
 # These owners will be the default owners for everything in
-# the repo. 
+# the repo.
 *       @dryewo
-
+*       @marsmining
+*       @oporkka
+*       @Otann
 
 
 # Samples for assigning codeowners below:
